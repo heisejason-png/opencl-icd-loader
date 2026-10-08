@@ -145,5 +145,4 @@ The following debug environment variables are available for use with the OpenCL 
 | OPENCL_LAYERS                     | Specifies a list of layers to load. |  `export OPENCL_LAYERS=libLayerA.so:libLayerB.so`<br/><br/>`set OPENCL_LAYERS=libLayerA.dll;libLayerB.dll` |
 | OPENCL_LAYER_PATH                 | On Linux and Android, specifies a directory to scan for layers to enumerate in place of the default `/etc/OpenCL/layers'. | `export OPENCL_LAYER_PATH=/my/local/layers/search/path` |
 | OCL_ICD_ENABLE_TRACE              | Enable the trace mechanism          |  `export OCL_ICD_ENABLE_TRACE=True`<br/><br/>`set OCL_ICD_ENABLE_TRACE=True`<br/>`true, T, 1 can also be used here.`  |
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
