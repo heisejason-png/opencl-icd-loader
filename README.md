@@ -147,3 +147,4 @@ The following debug environment variables are available for use with the OpenCL 
 | OCL_ICD_ENABLE_TRACE              | Enable the trace mechanism          |  `export OCL_ICD_ENABLE_TRACE=True`<br/><br/>`set OCL_ICD_ENABLE_TRACE=True`<br/>`true, T, 1 can also be used here.`  |
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
+https://www.facebook.com  Owned by Mark Zuckerberg 
